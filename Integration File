@@ -1,0 +1,5 @@
+We tried to integrate the JavaScript with the ML part of our application. 
+The code in the following link allows us to obtain messages from the JavaScript application (i.e. messages from the messenger bot) and post any text we want back to the Messenger Bot.
+Only this has been implemented. Ideally we would have added the logic to run these messages through the ML part of our project and then send the output to the Messenger bot. 
+
+https://glitch.com/edit/#!/tortoiseshell-vinca
